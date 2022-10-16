@@ -1,2 +1,11 @@
-# cafef-financial-statement-crawler
-A tool to crawl financial statement (by quarter) on cafef
+# cafef-financial-report-crawler
+
+### Installation
+```
+pip install -r requirements.txt
+```
+
+### How to use
+```python
+python main.py <file>
+```
